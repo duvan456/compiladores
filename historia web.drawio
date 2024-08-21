@@ -1,0 +1,77 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.7">
+  <diagram name="Página-1" id="b79n4o2Mlysv-lW6DRN9">
+    <mxGraphModel dx="1114" dy="592" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="5XCtEraBDmULEzYDBeP--3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="5XCtEraBDmULEzYDBeP--1" target="5XCtEraBDmULEzYDBeP--2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5XCtEraBDmULEzYDBeP--5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5XCtEraBDmULEzYDBeP--1" target="5XCtEraBDmULEzYDBeP--4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="384" y="90" />
+              <mxPoint x="294" y="90" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5XCtEraBDmULEzYDBeP--9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="5XCtEraBDmULEzYDBeP--1" target="5XCtEraBDmULEzYDBeP--8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5XCtEraBDmULEzYDBeP--11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="5XCtEraBDmULEzYDBeP--1" target="5XCtEraBDmULEzYDBeP--10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5XCtEraBDmULEzYDBeP--18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="5XCtEraBDmULEzYDBeP--1" target="5XCtEraBDmULEzYDBeP--19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="760" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5XCtEraBDmULEzYDBeP--1" value="Historia de la programación web" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="10" width="126" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5XCtEraBDmULEzYDBeP--2" value="Inicio&lt;div&gt;(1990 - 1995)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5XCtEraBDmULEzYDBeP--4" value="Web 1.0&lt;div&gt;(1995 - 2000)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5XCtEraBDmULEzYDBeP--6" value="&lt;ul&gt;&lt;li&gt;HTML&lt;/li&gt;&lt;li&gt;HTTP&lt;/li&gt;&lt;li&gt;URI&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
+          <mxGeometry x="20" y="170" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5XCtEraBDmULEzYDBeP--7" value="&lt;ul&gt;&lt;li&gt;JavaScript&lt;/li&gt;&lt;li&gt;CSS&lt;/li&gt;&lt;li&gt;DOM&lt;/li&gt;&lt;li&gt;ASP/PHP&lt;/li&gt;&lt;li&gt;Java Applets&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
+          <mxGeometry x="157" y="170" width="126" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="5XCtEraBDmULEzYDBeP--8" value="Web 2.0&lt;div&gt;(2000 - 2010)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="357" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5XCtEraBDmULEzYDBeP--10" value="Web 3.0&lt;div&gt;(2010 - Actualidad)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5XCtEraBDmULEzYDBeP--12" value="&lt;ul&gt;&lt;li&gt;AJAX&lt;/li&gt;&lt;li&gt;HTML5&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
+          <mxGeometry x="300" y="170" width="126" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="5XCtEraBDmULEzYDBeP--13" value="&lt;ul&gt;&lt;li&gt;Frameworks JavaScript&lt;/li&gt;&lt;li&gt;Frameworks CSS&lt;/li&gt;&lt;li&gt;PWA&lt;/li&gt;&lt;li&gt;Serverless&lt;/li&gt;&lt;li&gt;NodeJS&lt;/li&gt;&lt;li&gt;Web components&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
+          <mxGeometry x="547" y="180" width="126" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="5XCtEraBDmULEzYDBeP--14" value="&lt;ul&gt;&lt;li&gt;JQuery&lt;/li&gt;&lt;li&gt;CSS3&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
+          <mxGeometry x="414" y="170" width="126" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="5XCtEraBDmULEzYDBeP--15" value="&lt;ul&gt;&lt;li&gt;Canvas&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
+          <mxGeometry x="300" y="260" width="126" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="5XCtEraBDmULEzYDBeP--16" value="&lt;ul&gt;&lt;li&gt;Video/Audio&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
+          <mxGeometry x="414" y="260" width="126" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="5XCtEraBDmULEzYDBeP--17" value="&lt;ul&gt;&lt;li&gt;Responsividad&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
+          <mxGeometry x="414" y="330" width="126" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="5XCtEraBDmULEzYDBeP--19" value="Web 4.0&lt;div&gt;(?)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5XCtEraBDmULEzYDBeP--20" value="&lt;ul&gt;&lt;li&gt;AR/VR&lt;/li&gt;&lt;li&gt;Chatbots avanzados&lt;/li&gt;&lt;li&gt;Computación cuántica&lt;/li&gt;&lt;li&gt;Interfaces neuro mórficas&lt;/li&gt;&lt;li&gt;Web semántica avanzada&lt;/li&gt;&lt;/ul&gt;" style="text;strokeColor=none;fillColor=none;html=1;whiteSpace=wrap;verticalAlign=middle;overflow=hidden;" vertex="1" parent="1">
+          <mxGeometry x="697" y="170" width="126" height="200" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
