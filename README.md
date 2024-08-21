@@ -1,2 +1,2 @@
 # compiladores
-Repository to save all scripts from the course.
+Repository to save course scripts.
